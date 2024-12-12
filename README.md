@@ -5,9 +5,9 @@ This repository contains instructions for installing and running a binary distri
 # Downloads
 
 ## Ubuntu packages
- - [Ubuntu 20.04](packages/ubuntu/chesslib-ubuntu-20.04.deb.zip)
- - [Ubuntu 22.04](packages/ubuntu/chesslib-ubuntu-22.04.deb.zip)
- - [Ubuntu 24.04](packages/ubuntu/chesslib-ubuntu-24.04.deb.zip)
+ - [Ubuntu 20.04](https://github.com/julien-tierny/chess-referee-bin/raw/refs/heads/main/packages/ubuntu/chesslib-ubuntu-20.04.deb.zip)
+ - [Ubuntu 22.04](https://github.com/julien-tierny/chess-referee-bin/raw/refs/heads/main/packages/ubuntu/chesslib-ubuntu-22.04.deb.zip)
+ - [Ubuntu 24.04](https://github.com/julien-tierny/chess-referee-bin/raw/refs/heads/main/packages/ubuntu/chesslib-ubuntu-24.04.deb.zip)
 
 ## MacOS packages
  - [Mac OS 13](packages/macos/chesslib-macos-13.tar.gz.zip)

@@ -40,7 +40,7 @@ unzip chesslib.exe.zip
 chesslib.exe /S
 ```
 
-# Usage
+# Playing a game against a random player
 To make your program play a game against a random player, enter the following commands.
 ## Ubuntu
 ```
@@ -56,4 +56,25 @@ chessGame -W <path to your program> -B chessRandomPlayer
 ```
 set PATH=%PATH%;C:\Program Files\chesslib\bin\
 chessGame.exe -W <path to your program> -B chessRandomPlayer.exe
+```
+
+# Collecting statistics against a random player
+To play multiple games against a random player and retrieve statistics about
+these games (e.g., percentage of legal games, percentage of wins, etc.), enter
+the following commands.
+
+## Ubuntu
+```
+chessStats -n <number of games> -p <path to your program> -o chessRandomPlayer
+```
+
+## MacOS
+```
+chessStats -n <number of games> -p <path to your program> -o chessRandomPlayer
+```
+
+## Windows
+```
+set PATH=%PATH%;C:\Program Files\chesslib\bin
+chessStats.exe -n <number of games> -p <path to your program> -o chessRandomPlayer.exe
 ```
